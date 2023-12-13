@@ -1,0 +1,18 @@
+MSSV: 6451071088
+Ho Ten: Tran Dinh Vo
+Dia Chi: Binh Dinh
+Tuoi: 17
+Diem So: 9
+
+MSSV: 6451071019
+Ho Ten: Cao Xuan Diep
+Dia Chi: Thanh Hoa
+Tuoi: 18
+Diem So: 10
+
+MSSV: 6451071004
+Ho Ten: Tran Ngoc Bien
+Dia Chi: Dac Nong
+Tuoi: 19
+Diem So: 9.5
+
