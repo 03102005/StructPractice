@@ -113,6 +113,7 @@ void SinhVienTheoMSSV(SV *sv, int size, char timMSSV[]) {
     else
         printf("MSSV khong hop le");
 }
+//ham main
 int main() {
     
     int size;
